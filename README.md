@@ -1,6 +1,6 @@
 # Cloudsentiel Frontend
 
-This repository contains **only the frontend** of the Cloudsentiel AI platform.
+This repository contains the **frontend only** for the Cloudsentiel AI platform.
 
 ## Tech Stack
 - React (Vite)
@@ -9,7 +9,8 @@ This repository contains **only the frontend** of the Cloudsentiel AI platform.
 - React Router
 - Heroicons
 
-## Setup
+## Setup Instructions
+
 ```bash
 npm install
 npm run dev
